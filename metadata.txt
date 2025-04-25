@@ -1,7 +1,11 @@
 Répertoires des localités
 https://www.ansd.sn/donnees-recensements?field_liste_annee_value=2023
 (data-recensement.csv)
+Sauf indication contraire, les données et analyses de l’ANSD sont sous licence Creative Commons Attribution 4.0 International License.
+https://creativecommons.org/licenses/by/4.0/
 
 Senegal - Settlements
 https://data.humdata.org/dataset/senegal-settlements
 (sen_plpp_gov_ocha_09082017.zip)
+License
+Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)

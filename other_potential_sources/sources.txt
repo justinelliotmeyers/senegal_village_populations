@@ -1,5 +1,7 @@
 https://puma-sn.maps.arcgis.com/home/index.html
 
 https://www.geosenegal.gouv.sn/
+https://www.geosenegal.gouv.sn/conditions-d-utilisation.html
+(Conditions d’utilisation - Géo Sénégal.pdf)
 https://www.geosenegal.gouv.sn/IMG/pdf/licence_bdgp_se_ne_gal_v1-4.pdf
 (licence_bdgp_se_ne_gal_v1-4.pdf)

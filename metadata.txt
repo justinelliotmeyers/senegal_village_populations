@@ -9,3 +9,9 @@ https://data.humdata.org/dataset/senegal-settlements
 (sen_plpp_gov_ocha_09082017.zip)
 License
 Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)
+
+Senegal - Subnational Administrative Boundaries
+https://data.humdata.org/dataset/cod-ab-sen
+(sen_admbnd_anat_20240520_ab_shp.zip)
+License
+Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)

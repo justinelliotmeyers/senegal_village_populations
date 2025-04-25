@@ -1,3 +1,7 @@
 Répertoires des localités
 https://www.ansd.sn/donnees-recensements?field_liste_annee_value=2023
 (data-recensement.csv)
+
+Senegal - Settlements
+https://data.humdata.org/dataset/senegal-settlements
+(sen_plpp_gov_ocha_09082017.zip)

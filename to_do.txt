@@ -1,0 +1,37 @@
+sanity checks:
+village counts
+gis - 23,709
+table - 25,224
+
+admin counts
+admin 1 gis - 14 (pcode)
+admin 2 gis - 46 (pcode)
+admin 3 gis - 125 (pcode)
+
+admin 1 table - 14 (admin 1 name)
+admin 2 table - 46 (admin 1_2 name) Region||'_'||Departement
+admin 3 table - 553 (admin 1_2_3 name) Region||'_'||Departement||'_'||COMMUNE
+**admin 3 table - 177 (admin 1_2_3 name) Region||'_'||Departement||'_'||COM_ARRT_VILLE
+
+Quick top 20 cities check
+Joal - Fadiouth
+Bargny
+Jaxaay - Parcelles
+Richard-Toll
+Mbacké // M'Backé
+Tivaouane
+Kolda
+Sangalkam
+Louga
+Tambacounda
+Tivaouane Peulh - Niaga
+Diourbel
+Ziguinchor
+Saint-Louis
+Mbour // M'bour
+Rufisque
+Kaolack
+Thiès
+Touba // Touba Mosquée
+Dakar
+

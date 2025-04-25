@@ -5,3 +5,7 @@ https://www.geosenegal.gouv.sn/conditions-d-utilisation.html
 (Conditions d’utilisation - Géo Sénégal.pdf)
 https://www.geosenegal.gouv.sn/IMG/pdf/licence_bdgp_se_ne_gal_v1-4.pdf
 (licence_bdgp_se_ne_gal_v1-4.pdf)
+
+http://geossb.gouv.sn/sig_png/index.html
+http://geossb.gouv.sn/geoserver/PNG_WMS/ows?service=wfs&version=1.0.0&request=GetCapabilities
+*missing villages and hameau - need to determine license

@@ -13,6 +13,20 @@ admin 2 table - 46 (admin 1_2 name) Region||'_'||Departement
 admin 3 table - 553 (admin 1_2_3 name) Region||'_'||Departement||'_'||COMMUNE
 **admin 3 table - 177 (admin 1_2_3 name) Region||'_'||Departement||'_'||COM_ARRT_VILLE
 
+FeatureNam=FeatureRef and Admin4Name=FeatureNam and Admin4Name=FeatureRef=434
+UPPER()||'_'||UPPER()||'_'||UPPER()
+UPPER(Admin1Name)||'_'||UPPER(Admin2Name)||'_'||UPPER(FeatureNam)
+UPPER(Region)||'_'||UPPER(Departement)||'_'||UPPER(QUARTIER_VILLAGE_HAMEAU)
+
+points to table uniques (tablecount=1 and sen_plpp_gov_ocha_09082017_pointcount=1) = 12,466
+table to points uniques (pointcount=1 and  "datarecensement_tablecount" =1)=12,466
+
+
+
+
+
+
+
 Quick top 20 cities check
 Joal - Fadiouth
 Bargny

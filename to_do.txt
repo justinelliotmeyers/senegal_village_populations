@@ -25,6 +25,12 @@ table to points uniques (pointcount=1 and  "datarecensement_tablecount" =1)=12,4
 
 4/28
 A1A2QC - several admin 1 and admin 2 names don't align for the strict join. clean admin names then do a second pass join. one more strict pass after this and then evaluate fuzzy matching options. May have to dissolve split cities that have base name and A,B,C,D splits from the census?
+1679 matches
+
+14,145 strict matches
+split out remaining table and points
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 

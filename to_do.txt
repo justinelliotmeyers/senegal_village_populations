@@ -31,7 +31,7 @@ A1A2QC - several admin 1 and admin 2 names don't align for the strict join. clea
 split out remaining table and points
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+A1J||'_'||A2J||'_'||A3J
 
 
 Quick top 20 cities check
